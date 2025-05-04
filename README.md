@@ -42,5 +42,6 @@ Investigating trends over time, such as recent purchases or album releases.
 
 Industry Comparison: The project ends with a comparison of net worth between celebrities in the music industry versus those in the film industry, segmented by genre.
 
-Purpose
+Purpose 
+
 The project demonstrates how SQL can be used not just for simple data storage or retrieval, but also for answering complex analytical questions. It blends data modeling, querying, and critical thinking—providing a strong foundation for real-world applications such as business intelligence, entertainment analytics, and financial forecasting.
