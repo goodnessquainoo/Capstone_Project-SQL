@@ -1,9 +1,11 @@
 
 
 Famous Ghanaian Entertainers Database
+
 This project is a structured SQL-based database designed to model and analyze detailed information about prominent Ghanaian celebrities. It showcases how real-life data—such as movies, music, awards, possessions, and industry contributions—can be transformed into relational tables to support meaningful insights and decision-making through SQL queries.
 
 Overview
+
 The core of the project centers around designing a normalized relational database schema that captures multiple aspects of each celebrity’s public and financial life. The schema includes the following:
 
 People Table: Contains personal information such as celebrity name, date of birth, nationality, region, and occupation.
@@ -19,6 +21,7 @@ Possessions Table: Represents valuable assets owned by celebrities, including th
 Contributions Table: Captures contributions celebrities have made to the movie or music industries (e.g., as a producer, director, or featured artist).
 
 What Was Done
+
 Database Design: Tables were created with appropriate primary and foreign key relationships to maintain data integrity and ensure scalability. All tables were normalized to minimize redundancy.
 
 Data Insertion: Sample data was inserted into each table to simulate real-world records of well-known Ghanaian entertainers.
